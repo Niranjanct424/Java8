@@ -1,4 +1,4 @@
-package com.java.interface8.example;
+package com.java.example;
 
 import java.util.ArrayList;
 import java.util.List;

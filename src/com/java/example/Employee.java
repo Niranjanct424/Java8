@@ -1,4 +1,4 @@
-package com.java.interface8.example;
+package com.java.example;
 
 public class Employee {
 	

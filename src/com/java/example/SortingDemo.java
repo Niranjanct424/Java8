@@ -1,4 +1,4 @@
-package com.java.interface8.example;
+package com.java.example;
 
 import java.util.Collections;
 import java.util.Comparator;
